@@ -1,0 +1,6 @@
+puppeteer-extra
+puppeteer-extra-plugin-stealth
+@faker-js/faker
+axios
+ora
+cli-progress
